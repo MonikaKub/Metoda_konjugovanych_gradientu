@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1670159728 source:d:\Škola\pia\conjugate_gradient_method\matrix.cpp
+	<iostream>
+	<map>
+	<vector>
+	<algorithm>
+	<iostream>
+	<array>
+	<fstream>
+	<iterator>
+	<fstream>
+	"Matrix.h"
+
+1668976260 d:\Škola\pia\conjugate_gradient_method\matrix.h
+	<iostream>
+	<map>
+	<vector>
+	<algorithm>
+	<iostream>
+	<array>
+	<fstream>
+	<iterator>
+
+1670159837 source:d:\Škola\pia\conjugate_gradient_method\vektor.cpp
+	<iostream>
+	<map>
+	<vector>
+	<algorithm>
+	<algorithm>
+	<iostream>
+	<array>
+	<fstream>
+	<iterator>
+	<fstream>
+	"Vektor.h"
+
+1670159837 d:\Škola\pia\conjugate_gradient_method\vektor.h
+	<iostream>
+	<map>
+	<vector>
+	<algorithm>
+
+1670162862 source:d:\Škola\pia\conjugate_gradient_method\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<algorithm>
+	"Matrix.h"
+	"Vektor.h"
+	<array>
+	<fstream>
+	<iterator>
+
